@@ -1,4 +1,4 @@
-# 🛡️ Smart Electric Fence using ESP32
+# 🛡️ Smart Electric Fence and Animal Detection using ESP32
 
 An IoT-based Smart Electric Fence system developed using ESP32 that detects unauthorized fence disturbances and immediately generates an alert. The project demonstrates real-time monitoring, embedded system programming, sensor interfacing, and security applications.
 
