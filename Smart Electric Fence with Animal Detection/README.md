@@ -69,21 +69,15 @@ The project demonstrates the practical implementation of Embedded Systems for pe
 
 ------------------------------
 
-# Working Principle
+## ⚙️ Working Principle
 
-1. ESP32 continuously monitors the fence line.
-
-2. Under normal conditions, the circuit remains closed.
-
-3. If the fence is disturbed, the circuit condition changes.
-
-4. ESP32 detects the change.
-
-5. Buzzer is activated.
-
-6. Alert is displayed on Serial Monitor.
-
-7. (Future Scope) Send notification over Wi-Fi.
+- The PIR sensors continuously monitor the protected area for motion.
+- When motion is detected, the ultrasonic sensors verify the object's presence and distance.
+- The ESP32 processes the sensor data and triggers the ESP32-CAM to capture an image.
+- The captured image can be classified using an AI model to determine whether the object is an animal or a human.
+- If an animal is detected, the ESP32 activates the relay, which powers the electric fence and turns on a high-power LED to deter intrusion.
+- The system uploads event details and captured images to the cloud via Wi-Fi for remote monitoring.
+- Once the event is handled, the system resets automatically and resumes continuous surveillance.
 
 ---
 
