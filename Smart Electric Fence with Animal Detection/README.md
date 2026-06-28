@@ -7,7 +7,7 @@ An IoT-based Smart Electric Fence system developed using ESP32 that detects unau
 
 Watch the complete working video here:
 
-https://github.com/YourUsername/Smart-Electric-Fence/blob/main/videos/Smart_Electric_Fence_Demo.mp4
+[Watch Demo Video](Video/Smart%20Electric%20Fence%20working%20%28...%29.mp4)
 
 ---
 
@@ -15,15 +15,15 @@ https://github.com/YourUsername/Smart-Electric-Fence/blob/main/videos/Smart_Elec
 
 ## Block Diagram
 
-Smart Electric Fence with Animal Detection/Images/Prototype.jpeg
+[![Block Diagram](Images/Blockdiagram.jpeg)](Images/Blockdiagram.jpeg)
 
 ## Final Prototype
 
-![Prototype](images/prototype.jpg)
+[View Prototype](Images/Prototype.jpeg)
 
 ## System Work Flow
 
-![Work Flow](images/System work flow.jpeg)
+[View System Workflow](Images/Systemworkflow.jpeg)
 
 ---
 
@@ -91,7 +91,7 @@ The project demonstrates the practical implementation of Embedded Systems for pe
 
 # 📊 Block Diagram
 
-![Block Diagram](images/block_diagram.png)
+[![Block Diagram](Images/Blockdiagram.jpeg)](Images/Blockdiagram.jpeg)
 
 # 🚀 How to Run
 
