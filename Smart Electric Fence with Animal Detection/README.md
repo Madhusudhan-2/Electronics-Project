@@ -91,7 +91,7 @@ The project demonstrates the practical implementation of Embedded Systems for pe
 
 # 📊 Block Diagram
 
-[![Block Diagram](Images/Blockdiagram.jpeg)](Images/Blockdiagram.jpeg)
+[View Block Diagram](Images/Blockdiagram.jpeg)
 
 # 🚀 How to Run
 
