@@ -5,12 +5,9 @@ An IoT-based Smart Electric Fence system developed using ESP32 that detects unau
 ---
 
 
-<h2>🎥 Project Demonstration</h2>
+🎥 Project Demonstration</h2>
 
-<a href="Smart_Electric_Fence_Demo.mp4">
-    ▶️ Click here to watch the demo
-</a>
----
+[Watch Demo](Smart_Electric_Fence_Demo.mp4.mp4)
 
 # 📸 Project Images
 
