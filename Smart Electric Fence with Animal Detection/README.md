@@ -15,7 +15,7 @@ https://github.com/YourUsername/Smart-Electric-Fence/blob/main/videos/Smart_Elec
 
 ## Block Diagram
 
-https://github.com/Madhusudhan-2/Electronics-Project/blob/main/Smart%20Electric%20Fence%20with%20Animal%20Detection/Images/Prototype.jpeg
+Smart Electric Fence with Animal Detection/Images/Prototype.jpeg
 
 ## Final Prototype
 
