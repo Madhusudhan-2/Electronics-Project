@@ -15,7 +15,7 @@ Watch the complete working video here:
 
 ## Block Diagram
 
-[![Block Diagram](Images/Blockdiagram.jpeg)](Images/Blockdiagram.jpeg)
+[View Block Diagram](Images/Blockdiagram.jpeg)
 
 ## Final Prototype
 
